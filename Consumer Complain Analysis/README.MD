@@ -25,7 +25,7 @@ To analyze consumer complaint data to uncover trends, optimize resolution strate
 - Add geographic and sentiment analysis for deeper insights.
 
 ## Visuals
-![Membership Data Summary](https://github.com/Ajay7983/)
+![Membership Data Summary](https://github.com/Ajay7983/Excel-Projects/blob/main/Consumer%20Complain%20Analysis/Excel%20Dashboard.png)
 
 ## Contact
 - **Email**: ajayrs1013@gmail.com
