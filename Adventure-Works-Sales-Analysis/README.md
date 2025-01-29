@@ -34,10 +34,10 @@ This project aims to analyze sales data from Adventure Works and create an inter
 
 ## Dashboard Preview
 ### **Time Series Analysis Dashboard**
-![Time Series Dashboard](./https://github.com/Ajay7983/Excel-Projects/blob/main/Adventure-Works-Sales-Analysis/Dashboards/Home%20Dashboard.png)
+![Time Series Dashboard](https://github.com/Ajay7983/Excel-Projects/blob/main/Adventure-Works-Sales-Analysis/Dashboards/Home%20Dashboard.png)
 
 ### **Sales Dashboard**
-![Sales Dashboard](./https://github.com/Ajay7983/Excel-Projects/blob/main/Adventure-Works-Sales-Analysis/Dashboards/Sales%20Dashboard.png)
+![Sales Dashboard](https://github.com/Ajay7983/Excel-Projects/blob/main/Adventure-Works-Sales-Analysis/Dashboards/Sales%20Dashboard.png)
 
 ---
 **Author:** Ajay  
